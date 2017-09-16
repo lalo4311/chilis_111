@@ -1,0 +1,7 @@
+[26-Aug-2017 02:34:24 UTC] PHP Parse error:  syntax error, unexpected '');?>/css/bootstrap.min.css" r' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/index.php on line 17
+[26-Aug-2017 02:34:28 UTC] PHP Parse error:  syntax error, unexpected '');?>/css/bootstrap.min.css" r' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/index.php on line 17
+[26-Aug-2017 02:40:14 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/index.php on line 8
+[26-Aug-2017 02:40:17 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/index.php on line 8
+[29-Aug-2017 02:09:08 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/page-somos-chilis.php on line 1
+[29-Aug-2017 02:09:11 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/page-somos-chilis.php on line 1
+[29-Aug-2017 02:09:16 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/gearslite/public_html/lalomad/wp-content/themes/chilis/page-somos-chilis.php on line 1

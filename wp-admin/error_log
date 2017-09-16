@@ -1,0 +1,3 @@
+[10-Aug-2017 01:08:38 UTC] Error de la base de datos de WordPress Unknown column 'wp_' in 'field list' para SELECT wp_ consultas
+[10-Aug-2017 01:24:59 UTC] PHP Warning:  printf(): Too few arguments in /home/gearslite/public_html/lalomad/wp-includes/customize/class-wp-customize-header-image-control.php on line 180
+[10-Aug-2017 01:32:21 UTC] PHP Warning:  printf(): Too few arguments in /home/gearslite/public_html/lalomad/wp-includes/customize/class-wp-customize-header-image-control.php on line 180
